@@ -1,7 +1,7 @@
 # ArenaTest
 
-##Screenshot
-<img src="https://github.com/Jaylan1/ArenaTest/blob/main/ArenaShooter.gif"/>
+
+![DEMOGAMEPLAY](https://github.com/Jaylan1/ArenaTest/blob/main/ArenaShooter.gif)
 
 ### Table of Content
 - Description
