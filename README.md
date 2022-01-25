@@ -12,7 +12,7 @@
 - This is a 2d arena shooter that is all about testing a charge mechanic.
 
 ### What was used
-- GML and GameMakerStudio2.
+- [GML](https://docs.yoyogames.com/source/dadiospice/002_reference/001_gml%20language%20overview/) and [GameMakerStudio2](https://www.yoyogames.com/en/gamemaker).
 
 ## What I Learned
 - I learned how to make a charge mechanic along with a crit mechanic during the shooting.
@@ -23,3 +23,6 @@
 ## Author Info
 - Email long.jaylan@gmail.com
 - Insta @thalightskinjay
+
+## Status
+❌ Standalone not working
